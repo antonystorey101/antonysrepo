@@ -14,14 +14,14 @@
  
 <plugin>
 <title>[COLOR red][B]M[/COLOR][COLOR white]ovies[/COLOR][/B]</title>
-<link>plugin://plugin.video.streamhub/?action=movieNavigator</link>
+<link>plugin://plugin.video.gothamcitymedia/?action=movieNavigator</link>
 <thumbnail>http://thumbnail>
 </plugin>
  
   
 <plugin>
 <title>[COLOR red][B]TV[/COLOR][COLOR white] Shows[/COLOR][/B]</title>
-<link>plugin://plugin.video.streamhub/?action=tvNavigator</link>
+<link>plugin://plugin.video.gothamcitymedia/?action=tvNavigator</link>
 <thumbnail>http://thumbnail>
 </plugin>
  
