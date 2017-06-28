@@ -1,6 +1,6 @@
 
 <plugin>
-<title>[COLOR gold][B]Gotham City Media[/COLOR][/B]</title>
+<title>[COLOR yellow][B]Gotham City Media[/COLOR][/B]</title>
 <link>hh</link>
 <thumbnail>http://thumbnail>
 </plugin>
@@ -13,7 +13,7 @@
 
  
 <plugin>
-<title>[COLOR gold][B]Movies[/COLOR][/B]</title>
+<title>[COLOR yellow[B]Movies[/COLOR][/B]</title>
 <link>plugin://plugin.video.gothamcitymedia/?action=movieNavigator</link>
 <thumbnail>http://thumbnail>
 </plugin>
@@ -27,7 +27,7 @@
  
 
 <dir>
-<name>[COLOR lime][B]Kids Corner[/COLOR][/B]</name>
+<name>[COLOR yellow][B]Kids Corner[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/Kids/kidscorner.xml</link>
 <thumbnail>http://mkodi.co.uk/streamhub/icons/2/kid.png</thumbnail>
 </dir>
@@ -41,7 +41,7 @@
  
 
 <plugin>
-<name>[COLOR lime][B]24/7 TV[/COLOR][/B]</name>
+<name>[COLOR yellow][B]24/7 TV[/COLOR][/B]</name>
 <link>plugin://script.module.streamhub/?mode=47&url=None</link>
 <thumbnail>http://mkodi.co.uk/streamhub/icons/doc.png</thumbnail>
 </plugin>
