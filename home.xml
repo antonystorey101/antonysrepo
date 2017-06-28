@@ -27,22 +27,10 @@
  
 
 <dir>
-<name>[COLOR gold][B]Live Tv[/COLOR][/B]</name>
-<link>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/LiveTv/LievTV.xml</link>
-<thumbnail>http://mkodi.co.uk/streamhub/icons/2/LiveTV.png</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR lime][B]Kids Corner[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/Kids/kidscorner.xml</link>
 <thumbnail>http://mkodi.co.uk/streamhub/icons/2/kid.png</thumbnail>
 </dir>
-
-<plugin>
-<name>[COLOR gold][B]Music[/COLOR][/B]</name>
-<link>plugin://script.module.streamhub/?description&iconimage=C%3a%5cUsers%5cmedia%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.streamhub%5cicon.png&mode=64&name=MUSIC&url=https%3a%2f%2fraw.githubusercontent.com%2fsClarkeIsBack%2fStreamHub%2fmaster%2fLinks%2f247%2f247tv.xml</link>
-<thumbnail>http://mkodi.co.uk/streamhub/icons/2/Radio.png</thumbnail>
-</plugin>
 
 
 <plugin>
@@ -51,11 +39,6 @@
 <thumbnail>http://mkodi.co.uk/streamhub/icons/2/doc.png</thumbnail>
 </plugin>
  
- <plugin>
-<name>[COLOR gold][B]Anime[/COLOR][/B]</name>
-<link>plugin://script.module.streamhub/?mode=51&url=http://www.toonget.net/dubbed-anime</link>
-<thumbnail>http://mkodi.co.uk/streamhub/icons/2/doc.png</thumbnail>
-</plugin>
 
 <plugin>
 <name>[COLOR lime][B]24/7 TV[/COLOR][/B]</name>
@@ -63,14 +46,4 @@
 <thumbnail>http://mkodi.co.uk/streamhub/icons/doc.png</thumbnail>
 </plugin>
 
-<plugin>
-<title>[COLOR gold][B]XXX[/B][/COLOR]</title>
-<link>plugin://script.module.streamhub/?mode=31&url=http</link>
-<thumbnail>http://mkodi.co.uk/streamhub/icons/2/XXX.png</thumbnail>
-</plugin>
 
-<dir>
-<name>[COLOR lime][B]Test Area[/COLOR][/B]</name>
-<link>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/test.xml</link>
-<thumbnail>http://mkodi.co.uk/streamhub/icons/2/kid.png</thumbnail>
-</dir>
