@@ -13,7 +13,7 @@
 
  
 <plugin>
-<title>[COLOR yellow[B]Movies[/COLOR][/B]</title>
+<title>[COLOR yellow][B]Movies[/COLOR][/B]</title>
 <link>plugin://plugin.video.gothamcitymedia/?action=movieNavigator</link>
 <thumbnail>http://thumbnail>
 </plugin>
