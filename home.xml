@@ -1,6 +1,6 @@
 
 <plugin>
-<title>[COLOR yellow][B]Gotham City Media[/COLOR][/B]</title>
+<title>[COLOR yellow][I]Gotham City Media[/COLOR][/I]</title>
 <link>hh</link>
 <thumbnail>https://archive.org/download/IMG0338/IMG_0338_thumb.jpg</thumbnail>
 </plugin>
@@ -13,34 +13,34 @@
 
  
 <plugin>
-<title>[COLOR yellow][B]Movies[/COLOR][/B]</title>
+<title>[COLOR yellow][I]Movies[/COLOR][/I]</title>
 <link>plugin://plugin.video.gothamcitymedia/?action=movieNavigator</link>
 <thumbnail>https://archive.org/download/IMG0338/IMG_0338_thumb.jpg</thumbnail>
 </plugin>
  
   
 <plugin>
-<title>[COLOR lime][B]TV Shows[/COLOR][/B]</title>
+<title>[COLOR lime][I]TV Shows[/COLOR][/I]</title>
 <link>plugin://plugin.video.gothamcitymedia/?action=tvNavigator</link>
 <thumbnail>https://archive.org/download/IMG0338/IMG_0338_thumb.jpg</thumbnail>
 </plugin>
  
 
 <plugin>
-<name>[COLOR lime][B]Documentary's[/COLOR][/B]</name>
+<name>[COLOR lime][I]Documentary's[/COLOR][/I]</name>
 <link>plugin://script.module.streamhub/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.streamhub%5cicon.png&mode=35&name=DOCS&url=http%3a%2f%2fdocumentaryheaven.com%2fwatch-online%2f</link>
 <thumbnail>https://archive.org/download/IMG0338/IMG_0338_thumb.jpg</thumbnail>
 </plugin>
  
 
 <plugin>
-<name>[COLOR yellow][B]24/7 TV[/COLOR][/B]</name>
+<name>[COLOR yellow][I]24/7 TV[/COLOR][/I]</name>
 <link>plugin://script.module.streamhub/?mode=47&url=None</link>
 <thumbnail>https://archive.org/download/IMG0338/IMG_0338_thumb.jpg</thumbnail>
 </plugin>
 
 <plugin>
-<title>[COLOR lime][B][I]XXX[/B][I][/COLOR]</title>
+<title>[COLOR lime][B][I]XXX[/B][/I][/COLOR]</title>
 <link>plugin://script.module.streamhub/?description&iconimage=C%3a%5cUsers%5cmedia%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.streamhub%5cicon.png&mode=99&name=%5bCOLOR%20orange%5dG%5b%2fCOLOR%5d%5bCOLOR%20white%5denre%27s%5b%2fCOLOR%5d&url=http%3a%2f%2fwww.xvideos.com%2ftags</link>
 <thumbnail>https://archive.org/download/IMG0338/IMG_0338_thumb.jpg</thumbnail>
 </plugin>
