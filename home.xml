@@ -1,16 +1,34 @@
 <plugin>
 
-<title>[COLOR gold][B]Gotham City Streams[/B][/COLOR]</title>
+<title>[COLOR ffff0000][B]StreamHub[/B][/COLOR]</title>
 
 <link>hh</link>
 
 <thumbnail>https://s23.postimg.org/65w4d25l7/icon.png</thumbnail>
 
- <plugin>
+</plugin>
 
-<title>[COLOR gold][B]Gotham City IPTV[/COLOR][/B]</title>
 
-<link>plugin://script.module.streamhub/?mode=99999&url=none</link>
+
+
+<plugin>
+
+<title>[COLOR white][B][/COLOR][/B]</title>
+
+<link>hh</link>
+
+<thumbnail>https://s23.postimg.org/m5erwm1mz/template.png</thumbnail>
+
+</plugin>
+
+
+
+
+<plugin>
+
+<title>[COLOR gold][B]Premium[/COLOR][/B]</title>
+
+<link>plugin://script.module.gothamcitymedia/?mode=99999&url=none</link>
 
 <thumbnail>https://s21.postimg.org/ji5hrxm9z/STREAMHUB_PREMIUM.png</thumbnail>
 
@@ -165,4 +183,15 @@
   <thumbnail>https://s9.postimg.org/tt3m7cr0v/settings.png</thumbnail>
 
 </dir>
+
+
+
+
+
+
+
+
+
+
+
 
