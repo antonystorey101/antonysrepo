@@ -1,32 +1,14 @@
 <plugin>
 
-<title>[COLOR ffff0000][B]StreamHub[/B][/COLOR]</title>
+<title>[COLOR gold][B]Gotham City Streams[/B][/COLOR]</title>
 
 <link>hh</link>
 
 <thumbnail>https://s23.postimg.org/65w4d25l7/icon.png</thumbnail>
 
-</plugin>
+ <plugin>
 
-
-
-
-<plugin>
-
-<title>[COLOR white][B][/COLOR][/B]</title>
-
-<link>hh</link>
-
-<thumbnail>https://s23.postimg.org/m5erwm1mz/template.png</thumbnail>
-
-</plugin>
-
-
-
-
-<plugin>
-
-<title>[COLOR gold][B]StreamHub Premium[/COLOR][/B]</title>
+<title>[COLOR gold][B]Gotham City IPTV[/COLOR][/B]</title>
 
 <link>plugin://script.module.streamhub/?mode=99999&url=none</link>
 
