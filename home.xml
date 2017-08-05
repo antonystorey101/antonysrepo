@@ -1,4 +1,11 @@
 <plugin>
+<title>[COLOR red][B]P[/COLOR][COLOR white]remium[/COLOR][/B]</title>
+<link>plugin://script.module.streamhub/?mode=99999&url=none</link>
+<thumbnail>http://thumbnail>
+</plugin>
+
+
+<plugin>
 <title>[COLOR red][B]M[/COLOR][COLOR white]ovies[/COLOR][/B]</title>
 <link>plugin://plugin.video.streamhub/?action=movieNavigator</link>
 <thumbnail>http://thumbnail>
