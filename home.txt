@@ -5,7 +5,7 @@
 <channel>
 <name>1-Click HD Movies</name>
 <thumbnail>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/antonysrepo/blob/master/1080pHDMovies.txt</externallink>
+<externallink>https://github.com/antonystorey101/antonysrepo/blob/master/1-Click%20HDMovies.txt</externallink>
 <fanart>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</fanart>
 <info>SimpleKore.com</info>
 </channel>
