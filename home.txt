@@ -3,9 +3,9 @@
 
 <channels>
 <channel>
-<name>1 Click HD Movies</name>
+<name>[I]Movies[/I]</name>
 <thumbnail>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/antonysrepo/blob/master/1ClickHDMovies.txt</externallink>
+<externallink>https://github.com/antonystorey101/antonysrepo/blob/master/movies.txt</externallink>
 <fanart>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</fanart>
 <info>SimpleKore.com</info>
 </channel>
