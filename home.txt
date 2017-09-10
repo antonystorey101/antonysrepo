@@ -5,7 +5,7 @@
 <channel>
 <name>[I]Movies[/I]</name>
 <thumbnail>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</thumbnail>
-<externallink>https://github.com/antonystorey101/antonysrepo/blob/master/movies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/antonystorey101/antonysrepo/master/movies.txt</externallink>
 <fanart>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</fanart>
 <info>SimpleKore.com</info>
 </channel>
