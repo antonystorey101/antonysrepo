@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>1080p HD Movies</name>
+<thumbnail>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</thumbnail>
+<externallink>https://www.dropbox.com/s/ftbn2e5a9qttac5/1080pHDMovies.txt?dl=1</externallink>
+<fanart>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>
