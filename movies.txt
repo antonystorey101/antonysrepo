@@ -4,3 +4,11 @@
 <thumbnail>https://www.dropbox.com/s/58jvicvvbm6i5kp/112test.jpg?dl=1</thumbnail>
 <fanart>https://www.dropbox.com/s/5ckh5cwfteypsa0/dead_men_tell_no_tales_wallpaper_by_the_dark_mamba_995-db9ecuf.jpg?dl=1</fanart>
 </item>
+
+<item>
+<title>Earthquake</title>
+<link>http://eiffelpower.cloudip.tv:25461/movie/plexxx/XdsvcLWxrJ</link>
+<thumbnail>https://eiffelpower.cloudip.tv/images1715873.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
