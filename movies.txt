@@ -7,7 +7,7 @@
 
 <item>
 <title>Earthquake</title>
-<link>http://eiffelpower.cloudip.tv:25461/movie/plexxx/XdsvcLWxrJ</link>
+<link>http://eiffelpower.cloudip.tv:25461/movie/plexxx/XdsvcLWxrJ/26305.mp4</link>
 <thumbnail>https://eiffelpower.cloudip.tv/images1715873.jpg</thumbnail>
 <fanart></fanart>
 </item>
