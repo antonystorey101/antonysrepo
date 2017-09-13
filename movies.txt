@@ -5,10 +5,5 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>UK: HISTORY HD</title>
-<link>http://s1.iptvhosting.org:83/live/ResellerTestLine/3252352142/20907.m3u8</link>
-<thumbnail>https://www.dropbox.com/s/9m8jgmc2dtb9xe4/history.jpg?dl=1</thumbnail>
-<fanart></fanart>
-</item>
+
 
