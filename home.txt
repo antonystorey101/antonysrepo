@@ -6,7 +6,15 @@
 <name>[I]Movies[/I]</name>
 <thumbnail>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/antonystorey101/antonysrepo/master/movies.txt</externallink>
-<fanart>https://www.dropbox.com/s/ugtxwnyrqzp57yb/1080pmoviesthumb.jpg?dl=1</fanart>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>[I]Live IPTV[/I]</name>
+<thumbnail>http://blog.washingtonbrown.com.au/wp-content/uploads/2013/10/Live-on-air-300x300.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/antonystorey101/antonysrepo/master/livetv.txt</externallink>
+<fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
 
