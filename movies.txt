@@ -3,6 +3,7 @@
 <link>http://eiffelpower.cloudip.tv:25461/movie/plexxx/XdsvcLWxrJ/26062.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/3/3d/About_a_boy_movie_poster.jpg</thumbnail>
 <fanart></fanart>
+<info>A cynical, immature young man is taught how to act like a grown-up by a little boy</info>
 </item>
 
 
