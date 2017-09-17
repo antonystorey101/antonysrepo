@@ -1,6 +1,6 @@
 <item>
 <title>UK: BBC ONE HD</title>
-<link>http://s1.iptvhosting.org:83/live/ResellerTestLine/3252352142/21111.m3u8</link>
+<link>http://s1.iptvhosting.org:83/live/ResellerTestLine/3252352142/21110.m3u8</link>
 <thumbnail>https://vignette2.wikia.nocookie.net/lifeonmars/images/7/70/BBC_One_logo.png/revision/latest?cb=20100610103705</thumbnail>
 <fanart></fanart>
 <info>BBC ONE HD 1080p</info>
